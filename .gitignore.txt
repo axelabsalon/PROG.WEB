@@ -1,0 +1,3 @@
+*.pdf
+*.icon
+*.png
